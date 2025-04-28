@@ -53,7 +53,7 @@ venv\Scripts\activate      # For Windows
 ==> Inside the virtual environment (Linux), install Flask:   
 pip install Flask  
 
-==> GET an API Key Gemini (https://aistudio.google.com/prompts/new_chat)   
+==> GET an API Key Gemini (https://aistudio.google.com/prompts/new_chat) and save it.  
 
 ==> Inside the virtual environment (Linux), install Gemini Libraries (Google Generative AI):   
 pip install google-generativeai 
