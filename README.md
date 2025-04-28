@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 📂 Project Structure      
 
-ai-chatbot-faq/            # Root directory     
+ai-chatbot/            # Root directory     
 ├── backend/    
 │   └── venv               # Python virtual environment Recommended to avoid conflicts    
 │   └── app.py             # Flask code to handle chatbot requests  
