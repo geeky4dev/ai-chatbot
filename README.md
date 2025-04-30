@@ -8,6 +8,10 @@ It uses following technologies:
 ✅ Flask App for backend    
 ✅ React (Vite) for frontend    
 
+![AI Chatbot README JPEG](https://github.com/user-attachments/assets/bf8aa358-8c21-4aaf-83ce-89789de4a42a)
+
+
+
 __________________________________________________________________________________________________
 
 📂 Project Structure      
